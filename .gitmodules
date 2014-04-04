@@ -1,0 +1,3 @@
+[submodule "FFSplitter.app/Contents/Resources/Scripts/ffsplitter"]
+	path = FFSplitter.app/Contents/Resources/Scripts/ffsplitter
+	url = git@github.com:rockwood/ffsplitter.git
